@@ -1,4 +1,4 @@
-# Requisição do sistema
+# Requisitos do sistema
 
 ## Rotas
 
